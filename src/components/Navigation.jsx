@@ -8,7 +8,7 @@ const Navigation = () => {
     { to: "/", text: "Home" },
     { to: "/courses", text: "Courses" },
     { to: "/materials", text: "Study Materials" },
-    { to: "/announcements", text: "Announcements" },
+    { to: "/announcements", text: "MCA Projects Hub" },
   ];
 
   return (
