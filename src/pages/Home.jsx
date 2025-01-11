@@ -46,13 +46,13 @@ const Home = () => {
             </p>
             <div className="flex justify-center space-x-4">
               <Link
-                to="/courses"
+                to="../pages/Courses.jsx"
                 className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors duration-200"
               >
                 Explore Courses
               </Link>
               <Link
-                to="/materials"
+                to="../pages/Material.jsx"
                 className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white/10 transition-colors duration-200"
               >
                 View Materials
